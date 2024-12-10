@@ -1,160 +1,187 @@
 {
-  "images": [
-    {
-      "id": 1,
-      "url": "https://m.media-amazon.com/images/I/71M8YFEakfL._AC_UF894,1000_QL80_.jpg",
-      "description": "wednsday",
-      "type": "series"
-    },
-    {
-      "id": 2,
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcNpCK2g3onj4y5b1hUryD2nlN3LiDDQF-eg&s",
-      "description": "TOR",
-      "type": "film"
-    },
-    {
-      "id": 3,
-      "url": "https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "description": "the_walking_dead",
-      "type": "series"
-    },
-    {
-      "id": 4,
-      "url": "https://m.media-amazon.com/images/M/MV5BMWJlN2U5MzItNjU4My00NTM2LWFjOWUtOWFiNjg3ZTMxZDY1XkEyXkFqcGc@._V1_.jpg",
-      "description": "the_boys",
-      "type": "series"
-    },
-    {
-      "id": 5,
-      "url": "https://m.media-amazon.com/images/M/MV5BMDFmMGZmMGItNGRjNC00NjVjLWI5ODEtNzhjMTE5MmJhN2FkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "description": "supernatureal",
-      "type": "series"
-    },
-    {
-      "id": 6,
-      "url": "https://m.media-amazon.com/images/M/MV5BNjk0MzdlZGEtNTRkOC00ZDRiLWJkYjAtMzUzYTRiNzk1YTViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "description": "superbad",
-      "type": "film"
-    },
-    {
-      "id": 7,
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIoRfRiKeAFiunqYJNkMEfmgC88CKa0vh87w&s",
-      "description": "Star_Wars",
-      "type": "film"
-    },
-    {
-      "id": 8,
-      "url": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "description": "spiderman",
-      "type": "film"
-    },
-    {
-      "id": 9,
-      "url": "https://m.media-amazon.com/images/M/MV5BMTk2NTE1NTE0M15BMl5BanBnXkFtZTgwNjY4NTYxMTE@._V1_.jpg",
-      "description": "shrek",
-      "type": "film"
-    },
-    {
-      "id": 10,
-      "url": "https://m.media-amazon.com/images/M/MV5BMWUwZjJmYjctYTY3MC00ZTVlLWI1ZGEtNWQzMTFlMTcwMTY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "description": "shameless",
-      "type": "series"
-    },
-    {
-      "id": 11,
-      "url": "https://m.media-amazon.com/images/M/MV5BZTEyZWFjNDktZjQwYy00ZDNhLThhODUtZWZjMmFhNzQ5Zjg1XkEyXkFqcGc@._V1_.jpg",
-      "description": "mad_max",
-      "type": "film"
-    },
-    {
-      "id": 12,
-      "url": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "description": "lord_of_the_rings",
-      "type": "film"
-    },
-    {
-      "id": 13,
-      "url": "https://m.media-amazon.com/images/M/MV5BMTc3Mzg0NDE0MV5BMl5BanBnXkFtZTgwNzQ1MzgyMjI@._V1_.jpg",
-      "description": "Leon",
-      "type": "film"
-    },
-    {
-      "id": 14,
-      "url": "https://m.media-amazon.com/images/M/MV5BZWZjZGMwNmUtYmRiMS00ODEwLTgyYjQtOGUzMDNhOGU3OGQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "description": "GREEN_LAND",
-      "type": "film"
-    },
-    {
-      "id": 15,
-      "url": "https://www.kino-teatr.ru/movie/posters/big/5/6/20165.jpg",
-      "description": "How_I_met_your_mother",
-      "type": "series"
-    },
-    {
-      "id": 16,
-      "url": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_FMjpg_UX1000_.jpg",
-      "description": "harry_potter",
-      "type": "film"
-    },
-    {
-      "id": 17,
-      "url": "https://m.media-amazon.com/images/M/MV5BMDRjNmFjNjEtMTA3Yi00YTBmLTlhNTctNWFhNWI5NzU3NjVhXkEyXkFqcGc@._V1_.jpg",
-      "description": "green_mile",
-      "type": "film"
-    },
-    {
-      "id": 18,
-      "url": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "description": "game_of_thrones",
-      "type": "series"
-    },
-    {
-      "id": 19,
-      "url": "https://m.media-amazon.com/images/M/MV5BMTYxMjk0OTUwMF5BMl5BanBnXkFtZTgwNTY0ODIzMDE@._V1_.jpg",
-      "description": "free_to_play",
-      "type": "film"
-    },
-    {
-      "id": 20,
-      "url": "https://m.media-amazon.com/images/M/MV5BMTc1Mzc1ODMxMF5BMl5BanBnXkFtZTcwNDY1MzU1MQ@@._V1_FMjpg_UX1000_.jpg",
-      "description": "definitely_maybe",
-      "type": "film"
-    },
-    {
-      "id": 21,
-      "url": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "description": "breaking_bad",
-      "type": "series"
-    },
-    {
-      "id": 22,
-      "url": "https://m.media-amazon.com/images/M/MV5BZjgzY2QyNzItNDhhYi00ZWIwLWFjN2UtZDJkN2MxYWNjMmJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "description": "big_bang_theory",
-      "type": "series"
-    },
-    {
-      "id": 23,
-      "url": "https://m.media-amazon.com/images/M/MV5BYmRlYzE3ZTYtNjIyZi00MWYyLWEzZDItOWI5NzM1Yjc0NmI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "description": "Beetlejuice_Beetlejuice",
-      "type": "film"
-    },
-    {
-      "id": 24,
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMW80Aj5bF2P8kvoPud-bTPdUlXOXr8j6vxg&s",
-      "description": "back_to_the_future",
-      "type": "film"
-    },
-    {
-      "id": 25,
-      "url": "https://m.media-amazon.com/images/M/MV5BNzJjZTg0ZmMtMTg0Ny00NzYxLWFjMWMtMWFiYmNkMTNjZGMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "description": "am_horror_story",
-      "type": "series"
-    },
-    {
-      "id": 26,
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAQmQQBBGlGc7ifrVyi_Enp5EFhSveKxB1vg&s",
-      "description": "21_jump_street",
-      "type": "film"
-    }
-  ]
+  "images": 
+    [
+  {
+    "id": 1,
+    "url": "https://m.media-amazon.com/images/I/71M8YFEakfL._AC_UF894,1000_QL80_.jpg",
+    "name": "Вендсдей",
+    "description": "Это сериал о девушке по имени Уэнсдей, которая учится в академии Невермор и сталкивается с мистическими и криминальными событиями, происходящими вокруг её семьи.",
+    "type": "series"
+  },
+  {
+    "id": 2,
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcNpCK2g3onj4y5b1hUryD2nlN3LiDDQF-eg&s",
+    "name": "Тор Любовь и Гром",
+    "description": "Тор — это фильм о скандинавском боге грома, который оказывается в центре борьбы за власть в Асгарде и на Земле, сталкиваясь с врагами и своими собственными внутренними проблемами.",
+    "type": "film"
+  },
+  {
+    "id": 3,
+    "url": "https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Ходячие мертвецы",
+    "description": "Сериал о выживших после апокалипсиса, вызванного зомби-эпидемией, которые пытаются восстановить общество в условиях угрозы со стороны ходячих мертвецов и других выживших.",
+    "type": "series"
+  },
+  {
+    "id": 4,
+    "url": "https://m.media-amazon.com/images/M/MV5BMWJlN2U5MzItNjU4My00NTM2LWFjOWUtOWFiNjg3ZTMxZDY1XkEyXkFqcGc@._V1_.jpg",
+    "name": "Пацаны",
+    "description": "Этот сериал рассказывает о группе супергероев, которые сталкиваются с проблемами власти и морали, а также с опасными антигероями, которые используют свои силы для личной выгоды.",
+    "type": "series"
+  },
+  {
+    "id": 5,
+    "url": "https://m.media-amazon.com/images/M/MV5BMDFmMGZmMGItNGRjNC00NjVjLWI5ODEtNzhjMTE5MmJhN2FkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Сверхъестественное",
+    "description": "Сериал о двух братьях, которые охотятся на монстров, демонов и прочие сверхъестественные существа, решая мистические происшествия по всей Америке.",
+    "type": "series"
+  },
+  {
+    "id": 6,
+    "url": "https://m.media-amazon.com/images/M/MV5BNjk0MzdlZGEtNTRkOC00ZDRiLWJkYjAtMzUzYTRiNzk1YTViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Суперперцы",
+    "description": "Комедия о двух подростках, которые пытаются заработать деньги на школьном выпускном, сталкиваясь с множеством нелепых ситуаций и смешных приключений.",
+    "type": "film"
+  },
+  {
+    "id": 7,
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIoRfRiKeAFiunqYJNkMEfmgC88CKa0vh87w&s",
+    "name": "Звёздные войны",
+    "description": "Мифическая сага о борьбе между светлой и тёмной стороной Силы, охватывающая эпопею о повстанцах, империи и великих героях галактики.",
+    "type": "film"
+  },
+  {
+    "id": 8,
+    "url": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Человек-паук",
+    "description": "Фильм о молодом человеке по имени Питер Паркер, который после укуса радиоактивного паука приобретает сверхспособности и становится супергероем Человеком-пауком.",
+    "type": "film"
+  },
+  {
+    "id": 9,
+    "url": "https://m.media-amazon.com/images/M/MV5BMTk2NTE1NTE0M15BMl5BanBnXkFtZTgwNjY4NTYxMTE@._V1_.jpg",
+    "name": "Шрек",
+    "description": "Мультфильм о забавном огре Шреке, который отправляется в путешествие, чтобы спасти свою любимую принцессу, сталкиваясь с различными фантастическими существами и приключениями.",
+    "type": "film"
+  },
+  {
+    "id": 10,
+    "url": "https://m.media-amazon.com/images/M/MV5BMWUwZjJmYjctYTY3MC00ZTVlLWI1ZGEtNWQzMTFlMTcwMTY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Бесстыжие",
+    "description": "Сериал о семье Фергюсон, которая живет в неблагополучном районе и переживает разные трудности, пытаясь выжить в условиях социальной несправедливости и семейных проблем.",
+    "type": "series"
+  },
+  {
+    "id": 11,
+    "url": "https://m.media-amazon.com/images/M/MV5BZTEyZWFjNDktZjQwYy00ZDNhLThhODUtZWZjMmFhNzQ5Zjg1XkEyXkFqcGc@._V1_.jpg",
+    "name": "Безумный Макс",
+    "description": "Фильм о постапокалиптическом мире, где главному герою Максу предстоит бороться за выживание, сражаясь с диктатором и его армией в разрушенном мире.",
+    "type": "film"
+  },
+  {
+    "id": 12,
+    "url": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Властелин колец",
+    "description": "Эпопея о приключениях храброго хоббита, который вместе с группой героев отправляется в опасное путешествие, чтобы уничтожить могущественное кольцо, которое угрожает всему миру.",
+    "type": "film"
+  },
+  {
+    "id": 13,
+    "url": "https://m.media-amazon.com/images/M/MV5BMTc3Mzg0NDE0MV5BMl5BanBnXkFtZTgwNzQ1MzgyMjI@._V1_.jpg",
+    "name": "Леон",
+    "description": "Фильм о профессиональном убийце Леоне, который обучает молодую девушку Матьё искусству выживания после того, как её семья была убита.",
+    "type": "film"
+  },
+  {
+    "id": 14,
+    "url": "https://m.media-amazon.com/images/M/MV5BZWZjZGMwNmUtYmRiMS00ODEwLTgyYjQtOGUzMDNhOGU3OGQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Гренландия",
+    "description": "Фильм о семье, которая пытается выжить и найти безопасное место, когда комета разрушает Землю, и человечество сталкивается с угрозой полного вымирания.",
+    "type": "film"
+  },
+  {
+    "id": 15,
+    "url": "https://www.kino-teatr.ru/movie/posters/big/5/6/20165.jpg",
+    "name": "Как я встретил вашу маму",
+    "description": "Сериал о молодых людях, их романтических отношениях и жизненных приключениях в Нью-Йорке, с фокусом на герое Теде и его поисках идеальной девушки.",
+    "type": "series"
+  },
+  {
+    "id": 16,
+    "url": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_FMjpg_UX1000_.jpg",
+    "name": "Гарри Поттер",
+    "description": "Фильм о мальчике, который обнаруживает, что он волшебник, и поступает в магическую школу, где сталкивается с тёмными силами и раскрывает тайны о своём прошлом.",
+    "type": "film"
+  },
+  {
+    "id": 17,
+    "url": "https://m.media-amazon.com/images/M/MV5BMDRjNmFjNjEtMTA3Yi00YTBmLTlhNTctNWFhNWI5NzU3NjVhXkEyXkFqcGc@._V1_.jpg",
+    "name": "Зеленая миля",
+    "description": "Драма, в которой рассказывается о встречах охранников тюрьмы с необычным заключённым, обладающим сверхъестественными способностями, и его влияние на судьбы людей вокруг.",
+    "type": "film"
+  },
+  {
+    "id": 18,
+    "url": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Игра престолов",
+    "description": "Эпическая драма о борьбе за власть в вымышленном мире, где враждующие дома борются за Железный трон, а зловещие силы угрожают всему королевству.",
+    "type": "series"
+  },
+  {
+    "id": 19,
+    "url": "https://m.media-amazon.com/images/M/MV5BMTYxMjk0OTUwMF5BMl5BanBnXkFtZTgwNTY0ODIzMDE@._V1_.jpg",
+    "name": "Free to Play",
+    "description": "Документальный фильм, посвящённый профессиональным игрокам, которые участвуют в турнире по Dota 2, и их стремлению к победе и славе.",
+    "type": "film"
+  },
+  {
+    "id": 20,
+    "url": "https://m.media-amazon.com/images/M/MV5BMTc1Mzc1ODMxMF5BMl5BanBnXkFtZTcwNDY1MzU1MQ@@._V1_FMjpg_UX1000_.jpg",
+    "name": "Определенно, может быть",
+    "description": "Романтическая комедия о мужчине, который рассказывает своей дочери истории о своих бывших девушках, пытаясь помочь ей разобраться в любви и отношениях.",
+    "type": "film"
+  },
+  {
+    "id": 21,
+    "url": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Во все тяжкие",
+    "description": "Сериал о учитиле химии, который становится наркобароном, после того как узнает о своей неизлечимой болезни, и о его превращении в жестокого преступника.",
+    "type": "series"
+  },
+  {
+    "id": 22,
+    "url": "https://m.media-amazon.com/images/M/MV5BZjgzY2QyNzItNDhhYi00ZWIwLWFjN2UtZDJkN2MxYWNjMmJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Теория большого взрыва",
+    "description": "Сериал о группе ученых и их необычных отношениях с людьми, которые не имеют такой же интеллекта и любознательности, но с которыми они вынуждены взаимодействовать.",
+    "type": "series"
+  },
+  {
+    "id": 23,
+    "url": "https://m.media-amazon.com/images/M/MV5BYmRlYzE3ZTYtNjIyZi00MWYyLWEzZDItOWI5NzM1Yjc0NmI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Битлджус",
+    "description": "Комедия о призраке, который помогает семье избавиться от новых жильцов, но его методы оказываются гораздо более эксцентричными, чем ожидалось.",
+    "type": "film"
+  },
+  {
+    "id": 24,
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMW80Aj5bF2P8kvoPud-bTPdUlXOXr8j6vxg&s",
+    "name": "Назад в будущее",
+    "description": "Классический фильм о подростке, который путешествует во времени, используя машину времени, и сталкивается с неожиданными последствиями своих действий в прошлом.",
+    "type": "film"
+  },
+  {
+    "id": 25,
+    "url": "https://m.media-amazon.com/images/M/MV5BNzJjZTg0ZmMtMTg0Ny00NzYxLWFjMWMtMWFiYmNkMTNjZGMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Американская история ужасов",
+    "description": "Сериал, который рассказывает о различных случаях ужасов в разных временных периодах, начиная с истории одного дома, в котором происходят жуткие события.",
+    "type": "series"
+  },
+  {
+    "id": 26,
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAQmQQBBGlGc7ifrVyi_Enp5EFhSveKxB1vg&s",
+    "name": "21 Jump Street",
+    "description": "Комедия о двух полицейских, которые работают под прикрытием в школе, расследуя преступления, среди подростков, сталкиваясь с множеством неожиданных ситуаций.",
+    "type": "film"
+  }
+]
 }
